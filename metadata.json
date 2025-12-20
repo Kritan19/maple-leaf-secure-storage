@@ -1,0 +1,7 @@
+{
+  "name": "Maple Leaf Secure Storage",
+  "description": "A premium, Scandinavian-inspired self-storage website for a family-owned business in Carleton Place, Ontario, featuring secure unit listings, pricing, and Canadian-themed aesthetics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
